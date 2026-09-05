@@ -1,0 +1,63 @@
+==== [Mon Mar 30 12:34:39 PM CST 2026] Step 0: Preparing Files ====
+==== [Mon Mar 30 12:34:39 PM CST 2026] Step 1: Baseline Pipeline ====
+{'1': '32265191', '2': '31535491', '3': '33395476', '4': '35293739', '5': '33362219', '6': '30192296', '7': '31701063', '8': '27836836', '9': '31544005', '10': '25258764', '11': '32424306', '12': '30270779', '13': '28669031', '14': '27921107', '15': '24466587', '16': '25766145', '17': '20566889', '18': '33421192', '19': '27874734', '20': '32926076', '21': '26619551', '22': '29576354', '23': '32170657', '24': '14922202'}
+CHECK: hwe_proportions_summary.txt created with 5 lines.
+Processing baseline probabilities chromosome by chromosome...
+Chromosome 1: Done.
+Chromosome 2: Done.
+Chromosome 3: Done.
+Chromosome 4: Done.
+Chromosome 5: Done.
+Chromosome 6: Done.
+Chromosome 7: Done.
+Chromosome 8: Done.
+Chromosome 9: Done.
+Chromosome 10: Done.
+Chromosome 11: Done.
+Chromosome 12: Done.
+Chromosome 13: Done.
+Chromosome 14: Done.
+Chromosome 15: Done.
+Chromosome 16: Done.
+Chromosome 17: Done.
+Chromosome 18: Done.
+Chromosome 19: Done.
+Chromosome 20: Done.
+Chromosome 21: Done.
+Chromosome 22: Done.
+Chromosome 23: Done.
+Chromosome 24: Done.
+CHECK: all_chromosomes_final_prob.bed created with 10482 lines.
+==== [Mon Mar 30 12:34:47 PM CST 2026] Step 2: Randomization ====
+Randomization files generated: 500 files.
+==== [Mon Mar 30 12:34:57 PM CST 2026] Step 2.2: Random Probabilities & Threshold ====
+Random prob calculation for 1: Done.
+Random prob calculation for 2: Done.
+Random prob calculation for 3: Done.
+Random prob calculation for 4: Done.
+Random prob calculation for 5: Done.
+Random prob calculation for 6: Done.
+Random prob calculation for 7: Done.
+Random prob calculation for 8: Done.
+Random prob calculation for 9: Done.
+Random prob calculation for 10: Done.
+Random prob calculation for 11: Done.
+Random prob calculation for 12: Done.
+Random prob calculation for 13: Done.
+Random prob calculation for 14: Done.
+Random prob calculation for 15: Done.
+Random prob calculation for 16: Done.
+Random prob calculation for 17: Done.
+Random prob calculation for 18: Done.
+Random prob calculation for 19: Done.
+Random prob calculation for 20: Done.
+Random prob calculation for 21: Done.
+Random prob calculation for 22: Done.
+Random prob calculation for 23: Done.
+Random prob calculation for 24: Done.
+Computing 97.5% threshold...
+Total probability data points for threshold: 1579792
+Threshold calculated: 6.136766
+CHECK: global_threshold_97.5.txt created with 1 lines.
+==== [Mon Mar 30 12:37:29 PM CST 2026] Step 3: Plotting ====
+CHECK: plot_ready.bed created with 10482 lines.

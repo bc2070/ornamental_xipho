@@ -1,0 +1,5 @@
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/test_hisris_pack/posterior/APS1.2.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/test_hisris_pack/posterior/APS2.2.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/test_hisris_pack/posterior/APS3.2.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/test_hisris_pack/posterior/APS4.2.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/test_hisris_pack/posterior/APS5.2.posterior
