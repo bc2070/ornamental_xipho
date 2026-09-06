@@ -1,0 +1,5 @@
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/lksite/posterior/APS1.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/lksite/posterior/HJ1.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/lksite/posterior/MK1.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/lksite/posterior/SHJ1.posterior
+/public4/group_crf/home/b20gengjlin3/Xiphophorus/lksite/posterior/THJ2.posterior
